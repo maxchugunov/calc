@@ -1,2 +1,2 @@
-# calc
+# Description
 CLI calculator
